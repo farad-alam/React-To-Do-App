@@ -11,3 +11,5 @@ This repository contains a simple to-do application built using React.js. The ap
  - Bootstrap: Used Bootstrap for styling and layout components.
  - JavaScript: The app is primarily built using JavaScript for functionality.
  - HTML & CSS: Basic HTML and CSS for structure and additional styling.
+
+ ![Home page of To Do App](images\react to do app.png)
